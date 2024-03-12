@@ -1,7 +1,7 @@
 ## 1. 安装依赖包
 
 
-- 安装 [youtube-dlp](https://github.com/yt-dlp/yt-dlp)) 
+- 安装 [youtube-dlp](https://github.com/yt-dlp/yt-dlp)
 
     ```pip install git+https://github.com/yt-dlp/yt-dlp.git```
 
